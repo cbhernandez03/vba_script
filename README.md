@@ -1,7 +1,7 @@
 VBA scripting with Stock Market Analyst
 
 
-## Instructions
+
 
 Create a script that loops through all the stocks for one year and outputs the following information:
 
@@ -13,7 +13,7 @@ Create a script that loops through all the stocks for one year and outputs the f
 
   * The total stock volume of the stock.
 
-**Note:** Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+ * Conditional formatting that will highlight positive change in green and negative change in red.
 
 
 Bonus
